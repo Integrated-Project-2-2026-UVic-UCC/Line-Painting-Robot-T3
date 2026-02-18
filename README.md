@@ -14,7 +14,6 @@ BOTMARK proposes the design and development of a reduced-scale autonomous robot 
 
 The goal is to combine:
 
-- Intelligent navigation  
 - Mechanical robustness  
 - Accurate dispensing mechanisms  
 - Autonomous path execution  
@@ -59,14 +58,12 @@ Design and build an autonomous robotic platform capable of marking football fiel
 - Battery management system  
 
 ### Software
-
-- Sensor fusion  
+ 
 - Odometry  
 - Autonomous navigation  
 - Path planning algorithms  
 - Fault detection and handling  
 - Mobile app communication  
-- ROS-based modular structure  
 
 ---
 

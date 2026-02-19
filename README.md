@@ -70,7 +70,7 @@ To achieve this, we will fulfill the following requirements:
 - Project Manager – Oriol Arbonies  
 - Mechanical Lead – Àlex López  
 - Electronics Lead – Joan Marc Tur  
-- Software Lead – Dídac Fernández -> <a href="https://profile-summary-for-github.herokuapp.com/user/difermon09" target="_blank">
+- Software Lead – Dídac Fernández -> <a href="[https://profile-summary-for-github.herokuapp.com/user/difermon09](https://github.com/difermon09)" target="_blank">
         <img align="center" alt="difermon09 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
     </a> &nbsp;&nbsp; 
 

@@ -1,0 +1,8 @@
+Software/ros2_ws/build/
+Software/ros2_ws/install/
+Software/ros2_ws/roslog/
+
+**/.vscode/
+**/__pycache__/
+**/.pycache/
+**/.DS_Store
